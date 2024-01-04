@@ -1,5 +1,7 @@
-# Robert-Mancuso-Portfolio
-Robert Mancuso's digital portfolio!
+# Digital Portfolio for Robert Mancuso
+- THIS PAGE IS UNDER CONSTRUCTION! Bear with me ☺
+
+Please take a look at some of my recent and current projects! I created this portfolio using React to showcase some of my skills and bodies of work thus far.  Thank you for visiting!
 
 ## Description
 
@@ -31,19 +33,23 @@ THEN x
 ## Technologies Used
 1. HTML
 2. CSS
+3. JavaScript
+4. React
 
 ## References
 1. x
 
 ## Resources
+1. <a href="https://buttercms.com/blog/build-a-portfolio-website-with-react/">ButterCMS</a> - Building a React Portfolio
+2. x
 
 ## Development Goals
 1. x
 
 ## Links
 
-### <a href="https://github.com/MAT-2/stress-free-me-v2">GitHub Repository</a>
-### <a href="">Stress Free Me - Live Site</a>
+### <a href="https://github.com/bmancuso3/Robert-Mancuso-Portfolio">GitHub Repository</a>
+### <a href="">Robert Mancuso Portfolio - Live Site</a>
 
 ## Preview
 ![Homepage](assets/home.png)
