@@ -9,7 +9,7 @@ const Works = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500'>
             Work
           </p>
-          <p className='py-6 text-2xl'>Check out some of my most recent work</p>
+          <p className='py-6 text-2xl'>Check out some of my most recent projects!</p>
         </div>
 {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>

@@ -12,7 +12,7 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
             <div className="sm:text-right pb-8 pl-4">
               <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
-                About
+                About Robert Mancuso
               </p>
             </div>
             <div></div>
@@ -20,17 +20,16 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Hi. I'm Taminoturoko Briggs, nice to meet you. Please take a
-                look around.
+                Hello! And thank you for visiting my portfolio.
+              </p>
+              <p>
+              Please reach out to connect!
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                I am a Full Stack Web Developer with a background as an Infantry Officer in the US Army and the ability to provide a unique perspective to any diverse team. I am experienced with critical thinking, decision making, and comfortable working through adversity.  Above all, I am eager to learn and further develop my skills in this field. 
               </p>
             </div>
           </div>
