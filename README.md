@@ -37,7 +37,7 @@ THEN x
 4. React
 
 ## References
-1. x
+1. 
 
 ## Resources
 1. <a href="https://buttercms.com/blog/build-a-portfolio-website-with-react/">ButterCMS</a> - Building a React Portfolio
