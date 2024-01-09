@@ -41,7 +41,7 @@ THEN x
 
 ## Resources
 1. <a href="https://buttercms.com/blog/build-a-portfolio-website-with-react/">ButterCMS</a> - Building a React Portfolio
-2. x
+2. <a href="https://stackoverflow.com/questions/48572896/react-how-to-open-pdf-file-as-a-href-target-blank">Stack Overflow</a> - Linking to a PDF in a new window
 
 ## Development Goals
 1. x
