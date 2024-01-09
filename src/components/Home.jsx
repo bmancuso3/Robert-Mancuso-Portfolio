@@ -10,11 +10,12 @@ const Home = () => {
     className="h-screen w-full bg-[#0a192f]"
   >
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
-      <div className="flex flex-col justify-center h-full">
+      <div className="flex flex-col justify-center content-center h-full">
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
           Full Stack Web Developer
         </h2>
-        <p className="text-gray-500 py-4 max-w-md">
+        <p className="text-gray-500 py-4">
+        {/* max-w-md */}
           I am a former Army Officer and West Point graduate transitioning into the world of coding after 8 years of military service.
           I am excited to continue learning, both personally and professionally, in this next chapter!
         </p>
