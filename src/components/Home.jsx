@@ -16,7 +16,7 @@ const Home = () => {
         </h2>
         <p className="text-gray-500 py-4">
         {/* max-w-md */}
-          I am a former Army Officer and West Point graduate transitioning into the world of coding after 8 years of military service.
+          I am a former Army Officer and West Point graduate transitioning into the world of programming after 8 years of military service.
           I am excited to continue learning, both personally and professionally, in this next chapter!
         </p>
         <div>
