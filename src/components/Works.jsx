@@ -80,9 +80,9 @@ const Works = () => {
               </span>
               <p className='text-center'>I created this portfolio using React to showcase who I am, my skills, and my interests!</p>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/bmancuso3/Robert-Mancuso-Portfolio'>
+                <a href='https://robert-mancuso-portfolio.netlify.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
+                    Portfolio
                   </button>
                 </a>
                 <a href='https://github.com/bmancuso3/Robert-Mancuso-Portfolio'>
