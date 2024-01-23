@@ -1,7 +1,6 @@
 # Digital Portfolio for Robert Mancuso
-- THIS PAGE IS UNDER CONSTRUCTION! Bear with me ☺
 
-Please take a look at some of my recent and current projects! I created this portfolio using React to showcase some of my skills and bodies of work thus far.  Thank you for visiting!
+Please take a look at some of my projects! I created this portfolio using React to showcase my skills, interests, and who I am.  Thank you for visiting! ☺
 
 ## Description
 
@@ -18,16 +17,16 @@ Please take a look at some of my recent and current projects! I created this por
 
 ## User Story
 ```
-AS x
-I WANT x
-SO THAT x
+AS recent bootcamp graduate and junior developer
+I WANT to showcase some of my skills to you, hopefully a future employer!
+SO THAT I can give you an idea of what I bring to the table and who I am
 ```
 
 ## Acceptance Criteria
 ```
-GIVEN x
-WHEN x
-THEN x
+GIVEN my pursuit of beginning a career in software development
+WHEN a viewer visits my digital portfolio
+THEN they get a basic idea for my technical skills and background, my personality, and means to attain answers to any other questions one might have
 ```
 
 ## Technologies Used
@@ -44,12 +43,13 @@ THEN x
 2. <a href="https://stackoverflow.com/questions/48572896/react-how-to-open-pdf-file-as-a-href-target-blank">Stack Overflow</a> - Linking to a PDF in a new window
 
 ## Development Goals
-1. x
+1. Edit the Contact section to display contact links rather than a submission form
+2. 
 
 ## Links
 
 ### <a href="https://github.com/bmancuso3/Robert-Mancuso-Portfolio">GitHub Repository</a>
-### <a href="">Robert Mancuso Portfolio - Live Site</a>
+### <a href="https://robert-mancuso-portfolio.netlify.app/">Robert Mancuso Portfolio - Live Site</a>
 
 ## Preview
 ![Homepage](assets/home.png)
