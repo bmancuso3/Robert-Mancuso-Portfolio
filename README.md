@@ -44,7 +44,7 @@ THEN they get a basic idea for my technical skills and background, my personalit
 
 ## Development Goals
 1. Edit the Contact section to display contact links rather than a submission form
-2. 
+2. README description
 
 ## Links
 
